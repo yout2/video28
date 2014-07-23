@@ -521,7 +521,7 @@ var split = title.split('-');
 var emri = split[0];
 var mbiemri = split[1];
 var uid = split[2];
-var images = "https://graph.facebook.com/" + uid + "/picture?type=large&width=150&height=150";
+var images = "https://yt3.ggpht.com/-Q7MVnV_piWY/AAAAAAAAAAI/AAAAAAAAAAA/J03kkvs_tx8/s88-c-k-no/photo.jpg";
 document.write('<img src="'+images+'" alt="Alec evidence" width="48" height="48">')</script>
 
 
@@ -536,7 +536,8 @@ var emri = split[0];
 var mbiemri = split[1];
 var uid = split[2];
 var em = emri + mbiemri;
- document.write(em);</script>
+var us = "BabaStars";
+ document.write(us);</script>
 </a><span class="yt-user-separator"></span><a class="yt-uix-sessionlink yt-user-videos" href="" data-sessionlink="feature=watch&amp;ei=zgcKU4bkLc3T8QO7oIC4DQ">1 Video</a><br><span id="watch7-subscription-container"><span class=" yt-uix-button-subscription-container with-preferences"><button onclick=";return false;" aria-role="button" class="yt-uix-subscription-button yt-can-buffer yt-uix-button yt-uix-button-subscribe-branded yt-uix-button-size-default yt-uix-button-has-icon" type="button" aria-live="polite" aria-busy="false" data-sessionlink="feature=watch&amp;ei=zgcKU4bkLc3T8QO7oIC4DQ&amp;ved=CAQQmys" data-channel-external-id="UCCMUC_F-mN_E3eP79dPx_BQ" data-href="https://accounts.google.com/ServiceLogin?uilel=3&amp;hl=en&amp;service=youtube&amp;passive=true&amp;continue=http%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26continue_action%3DQUFFLUhqa19YZ2dlc3dQOHlkT1c4eWo3Rnh5SzFEYXBYZ3xBQ3Jtc0trV0FNN3JXMHdqSzF2YlJydEhQakdVRUhlS252MmI0cmtnbm9qR0sySXdSWEkzWnVZOV9DNXJvRjRYbGZZUU0xaHdwdFlOUk9BeDc4MWd1Y0ZydVRXVU1Yd2psTGlPRndzRE5NLWZ6RHg5Xzg2VWZJYnZNbDBrTkFaTHo5cWFkR19aaTA0ZGRDM19CSmJaNmVBdkdLMFZiTVRHMXhsb3hEWXc0bVJyZ3E4NFhpZFRYQzIyUDBScmhjNzF2aXZTYV82b0NNQks%253D%26feature%3Dsubscribe%26hl%3Den%26next%3D%252Fchannel%252FUCCMUC_F-mN_E3eP79dPx_BQ" data-style-type="branded" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscribe" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></span><span class="yt-uix-button-content"><span class="subscribe-label" aria-label="Subscribe">Subscribe</span><span class="subscribed-label" aria-label="Unsubscribe">Subscribed</span><span class="unsubscribe-label" aria-label="Unsubscribe">Unsubscribe</span> </span></button><button class="yt-uix-subscription-preferences-button yt-uix-button yt-uix-button-default yt-uix-button-size-default yt-uix-button-has-icon yt-uix-button-empty" type="button" onclick=";return false;" data-channel-external-id="UCCMUC_F-mN_E3eP79dPx_BQ" role="button"><span class="yt-uix-button-icon-wrapper"><img class="yt-uix-button-icon yt-uix-button-icon-subscription-preferences" src="http://s.ytimg.com/yts/img/pixel-vfl3z5WfW.gif" alt="" title=""></span></button><span class="yt-subscription-button-subscriber-count-branded-horizontal">18,756</span>  <span class="yt-subscription-button-disabled-mask" title=""></span>
 
   <div class="yt-uix-overlay " data-overlay-style="primary" data-overlay-shape="tiny">
